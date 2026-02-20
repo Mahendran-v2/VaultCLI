@@ -1,0 +1,8 @@
+# secrets / runtime files
+master.hash
+secret.key
+passwords.txt
+
+# python junk
+__pycache__/
+*.pyc
